@@ -1,0 +1,14 @@
+location.reload() - перезагрузить страницу
+
+$(document).ready( function() {} )   ~   $(function() {})
+
+$('#').pref() / $('#').next() - предыдущий/следующий элемент
+
+$('#').addClass('name') - добавить класс
+$('#').removeClass('name') - удалить класс
+
+$('#').toggle() - прячет/показывает элемент (display: none)
+
+$('#').attr(attrName) - вернуть значение аттрибута
+$('#').attr(attrName, attr Value) - заменить значение аттрибута
+$('#').removeAttr(attrName) - удаляет аттрибут
